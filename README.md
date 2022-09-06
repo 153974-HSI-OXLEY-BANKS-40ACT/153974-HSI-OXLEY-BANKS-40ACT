@@ -1,4 +1,4 @@
-# ACCESSORIES TO CONCEALING A FILING BY CIK FILER 93715 AND CIK FILER 1516523
+### ACCESSORIES TO CONCEALING A FILING BY CIK FILER 93715 AND CIK FILER 1516523
 
 #### AKA.: PEEPING TOMS, ALSO AIDED AND ABETTED TO CONCEALING THE VIOLATION OF PRIVACY IN NYSCEF MATTER 153974/2020
 
@@ -6,28 +6,33 @@
 
 ## 1.  Marlyn Delva [mmt22@columbia.edu],
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/Peeping-Toms-of-Zucker">ATTN: NEW YORK BUREAU</a></p>
-                Marlyn Delva [mmt22@cumc.columbia.edu]
+
+Marlyn Delva [mmt22@cumc.columbia.edu]
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/wilson-elser-court-calendar">ATTN: NEW YORK BUREAU</a></p>
 
 ## 2.  Amber Griffiths [ag2943@columbia.edu],
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/153974-HSI-OXLEY-BANKS-40ACT/tree/main">ATTN: NEW YORK BUREAU</a></p>
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/Peeping-Toms-of-Zucker">ATTN: NEW YORK BUREAU</a></p>
-                Amber Griffiths [ag2943@adcu.columbia.edu]
+
+Amber Griffiths [ag2943@adcu.columbia.edu]
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/STONEHEARST-ASYLUM/find/main">ATTN: NEW YORK BUREAU</a></p>
 
 ## 3.  Stephen O'Connell [sgo2107@columbia.edu],
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/EVIDENCE-153974-2020/find/main">ATTN: NEW YORK BUREAU</a></p>
-                Stephen O'Connell [sgo2107@adcu.columbia.edu]
+
+Stephen O'Connell [sgo2107@adcu.columbia.edu]
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/150-EAST-42ND-STREET/find/main">ATTN: NEW YORK BUREAU</a></p>
 
 ## 4.  Derek Cyrill Bowe, Jr. [dm3412@columbia.edu],
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/HOTEL-ROOM-MIGRATION-PATTERN/find/main">ATTN: NEW YORK BUREAU</a></p>
-                Dean's Discipline - SCCS [conduct-admin@columbia.edu]
+
+Dean's Discipline - SCCS [conduct-admin@columbia.edu]
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/LASKOWITZ-HUMPHRIES-LEADERSHIP/find/main">ATTN: NEW YORK BUREAU</a></p>
 
 ## 5.  Sara Ede [see2119@columbia.edu],
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/Peeping-Toms-of-Zucker">ATTN: NEW YORK BUREAU</a></p>
-                Sara Ede [see2119@adcu.columbia.edu]
+
+Sara Ede [see2119@adcu.columbia.edu]
                 <p>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;<a href="https://github.com/153974-HSI-OXLEY-BANKS-40ACT/ELSER-AND-DICKER">ATTN: NEW YORK BUREAU</a></p>
 
 ---
