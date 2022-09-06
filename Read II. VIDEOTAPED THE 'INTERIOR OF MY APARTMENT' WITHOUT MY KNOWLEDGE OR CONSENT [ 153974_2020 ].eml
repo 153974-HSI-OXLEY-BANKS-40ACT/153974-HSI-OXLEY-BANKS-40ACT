@@ -1,0 +1,149 @@
+From - Tue Sep  6 07:10:51 2022
+X-Account-Key: account1
+X-UIDL: AM5B9h4Zf0FzYxcrQgUkaKs05Fo
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.159
+ by atlas201.free.mail.gq1.yahoo.com with HTTPS; Tue, 6 Sep 2022 11:13:05 +0000
+Return-Path: <AMcCoy@clintonctyprosecutor.com>
+X-Originating-Ip: [66.203.17.66]
+Received-SPF: none (domain of clintonctyprosecutor.com does not designate permitted sender hosts)
+Authentication-Results: atlas201.free.mail.gq1.yahoo.com;
+ dkim=unknown;
+ spf=none smtp.mailfrom=clintonctyprosecutor.com;
+ dmarc=unknown header.from=clintonctyprosecutor.com;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 6 Sep 2022 11:13:06 +0000
+X-YMailAVSC: geF3OJE3bBv8uWHoIEm3I4j_VBaVnnbfBfivwiQWxkLvEhT
+ 8ag8hkUN_Hh4UzP6GsKneydkboq_MQMqp5U_uCLDeTHtvCXM6qfB5jQ1muAy
+ geEttT6yDO7520nDeykBtJdQ55W0pivoYyEqrCqbnMbVbLIygsXLuHBT3t.V
+ VmRn_nEFhbOJGlbfGNBK2LQPP1p.ir.5Vv219_z44I_DPtixH0b4_omXn.ra
+ YKp2ZgL0xmGFTdAGOoBObDC8QTTkXmBUQ1CvugpIIGHlDWGsJ29jYr__Rfpk
+ Dmizlw57SmvE_Y4kQHDY_cWFDVJa1HKaRmOXez.ZIUuGuXLkIeZRqFPBIZgL
+ lYkLMkVswbvHoZirat_BFQJLAZbm2LWvsYxo0YwjhbcaNBf8OO41E1Qo2hQw
+ kaOSobgQlxepoUnaKadty5fiD0Frjz2nZJekNeqnhrdISXVGBViSZ_inThPQ
+ Gi3okeyGWBFRld8EfXGrJ_bn82Xmqy4cG1_S0loP0b_sOYF8awS64Y82RWEU
+ zKSx7kkIkwEMOrfPfTEBe5899pwi3osV9K_3Q95vg1HpRoIvzOU4ZnIGFkS8
+ BhPgJwQJXTF5pwr375cN4KeiXg8KluOGWpvZ3WTthC0PuEhtSubjJfd_f3Mn
+ aN3ZC5JP7jv0Z7shGrhkhvH3V.Cvin7o9bJMmXOMw2fCd.QYSVDrqslPLBpm
+ .f11aJgfWk1zLI2Si8kWb3k51LshCj0MrnbO1ZiH5n6I8rRzD1kHkHYVi42F
+ AL3NWnjZliIJ17kxOhSgffpsJa.shKwZzu1ngTzEpPKWPRuIfFyVFxDQ72n_
+ fJMdtqPKEf01Isl5mNE3NgNWzvakJPZexBi5Vn0uM1wVO49B64bt7Bn5DF2X
+ CZ.GoN0V6z7UW5MiMuKKAIRY6SSV7CDFSD4UAksz8fGwhO4fHz.2EvNomqfB
+ rttGLTSWLue3WvFVlNg4XhTbvh1cFgvYe4V3bbOtcFMXLipd30e3NlybR3yz
+ o0En4nidVVnhftqVR57Tg13H5ukNF0vG.bbrso.UnMvhQ.7_z0bODHbbUMNf
+ EFG_ETZRUxJfNbnsmim5vMmYQzmij4h.Wq07ysAAMJgCfJDREZE6.Ag--
+X-YMailISG: PYDD7C4WLDv0d4JQtiMSn5c7WfO1LeNBXShsExnCp9eg7407
+ tSaZbUW3wF6HTrabAv84wF6QqGZqnEsqGso2s.balq2YOhWqGc9PFg1AgTTz
+ vDOtZM0vVm4pxL11e.yeQ5C5sTIjMWZrr7usTfsx7At4TjfnVBPrT9Rwm1TF
+ QbcXTtQ6jSbdZPMIF7BjtKSqAnRDY_gVUSMjoh1Jv8urE2aPZ11CjHptM7FJ
+ jPsm6SoSaZxxnhrlVVEfLngd7_eS.v_mHjN_K5GtYlK9MYX5DGH8lf3mtRIP
+ BCbWOrspLWePMufD0Dedrsn83E7zRNiyyEIVGDpNfaWJX.6P4s3O4fGdrEGp
+ A.9BqanfCmzsdkWo4WilEcjdsH1L.Sg809.BoAGYK.YboYYC5.H6NQ7ro67s
+ INBesib.3xKyfW27tonfAcMR2.fymO4g_JhxIqDrsffi30.LY3NTp7Bjpy.V
+ 785KniJFORiuBiG7tord4iMindGkT3OH5_9qc4JxVbNqQMXulFTHhu0AOKaf
+ qUb.ZTiNMlexV.d7mSk.HmE1G9vBji2nYYAeftcRWL2.Wl84K9AkmQ6CyI03
+ cWGc57P5wF1EdcvB.FFmgKwwk9VruCq09kEezUlD2uIrLRqa8i4vdDHtoen5
+ .LmnAC6kU_2aw65gxqQH5x3S5ou6Wedqbr6Cw.3Y7i5PAwYXN4ATnK47VjFj
+ qnqveFHpL3k9th7gLN1us2iGdVly6Q1R_5KShjPdVMqMycQ2MHcsYZq1nOVU
+ X6d3YZaK7jBWjbNm8Ka5XfXPXTcWBIRDGufDLCRUPd3yrrjOTqp_6NNXgKa9
+ tM8FtLAxSq6Etp.W4TsogX2uflEi2uhtX_iP0hfQHSsnJGkg3biqft_8FCw9
+ 9XNb6H0b2lPSCreEL.L2aFuU15ha1TIwSNbkzevXnWOBec7be.L_KroktDiS
+ SpTxcgS.meAkkDD7blbHNPzHk4SsSuUKYp98xs353JNSl9G37vbEb1yyx__W
+ iTdG2fKllZtMBkAGk9w8C.3YnAXy0z4WMQB.oNDWrEJ5pgVLt0GoHpe5VFik
+ BKdk.GfI_UB3jtsCP0LzjAIe601HlS.yBA--
+Received: from 66.203.17.66 (EHLO MM-2019.dsl.mveca.org)
+ by 10.253.62.159 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Tue, 06 Sep 2022 11:13:05 +0000
+Received: from CCOH-XCHG-19.cc-oh.us (Not Verified[10.3.40.40]) by MM-2019.dsl.mveca.org with Trustwave SEG (v8,2,6,11305) (using TLS: TLSv1.2, ECDHE-RSA-AES256-GCM-SHA384)
+	id <B63172b400000>; Tue, 06 Sep 2022 07:13:04 -0400
+Received: from CCOH-XCHG-19.cc-oh.us (10.3.40.40) by CCOH-XCHG-19.cc-oh.us
+ (10.3.40.40) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.792.15; Tue, 6 Sep 2022
+ 07:13:04 -0400
+Received: from CCOH-XCHG-19.cc-oh.us ([fe80::c5f1:22d7:f8da:d31d]) by
+ CCOH-XCHG-19.cc-oh.us ([fe80::c5f1:22d7:f8da:d31d%3]) with mapi id
+ 15.02.0792.015; Tue, 6 Sep 2022 07:13:04 -0400
+From: "McCoy, Andrew T." <AMcCoy@clintonctyprosecutor.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Topic: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Index: AQHYvxZB3tb+Noa0u0W8pbBw/zAyiK3M8TUAgAVTr30=
+Date: Tue, 6 Sep 2022 11:13:04 +0000
+Message-ID: <42da784d846b4e7fb11a9314bec4892e@clintonctyprosecutor.com>
+In-Reply-To: <de1748d5-2dff-5a67-3354-1749a39fd380@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.4.249.56]
+Content-Type: multipart/report;
+	boundary="_000_42da784d846b4e7fb11a9314bec4892eclintonctyprosecutorcom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-SEG-SpamProfiler-Analysis: v=2.3 cv=XsCExmN9 c=1 sm=1 tr=0 a=atemyoFGGjn3oCdlBQauPw==:117 a=xqWC_Br6kY4A:10 a=N_BNtGMDqCUA:10 a=xOM3xZuef0cA:10 a=cW_Bs7id9D2Ht440YqEA:9 a=CjuIK1q_8ugA:10 a=tECdcqVjWfNFoAeB1hcA:9 a=frz4AuCg-hUA:10 a=_W_S_7VecoQA:10 a=l1Yz1vycAAAA:8 a=facSDQ0IfLGoP-ngDv4A:9 a=-bOybdVOihYA:10 a=rVnDm9A_-c-k2ki-JAcA:9 a=CWxmOL0R0zPjv_2izXPv:22
+X-SEG-SpamProfiler-Score: 0
+Content-Length: 2100
+
+--_000_42da784d846b4e7fb11a9314bec4892eclintonctyprosecutorcom_
+Content-Type: multipart/alternative;
+	boundary="_002_42da784d846b4e7fb11a9314bec4892eclintonctyprosecutorcom_"
+
+--_002_42da784d846b4e7fb11a9314bec4892eclintonctyprosecutorcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: McCoy, Andrew T.
+   Subject: Re: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY KN=
+OWLEDGE OR CONSENT [ 153974/2020 ]
+   Sent: Friday, September 2, 2022 5:51:32 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Tuesday, September 6, 2022 7:12:21 AM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_42da784d846b4e7fb11a9314bec4892eclintonctyprosecutorcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: McCoy, Andrew T.<br>
+&nbsp;&nbsp; Subject: Re: II. VIDEOTAPED THE &quot;INTERIOR OF MY APARTMENT=
+&quot; WITHOUT MY KNOWLEDGE OR CONSENT [ 153974/2020 ]<br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 5:51:32 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, September 6, 2022 7:12:21 AM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_42da784d846b4e7fb11a9314bec4892eclintonctyprosecutorcom_--
+
+--_000_42da784d846b4e7fb11a9314bec4892eclintonctyprosecutorcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; AMcCoy@clintonctyprosecutor.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 9IJWg/UOtEmAaJV60RDZwg==
+X-Display-Name: McCoy, Andrew T.
+
+
+--_000_42da784d846b4e7fb11a9314bec4892eclintonctyprosecutorcom_--
