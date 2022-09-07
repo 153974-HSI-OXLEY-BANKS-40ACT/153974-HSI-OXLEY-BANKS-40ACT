@@ -2,6 +2,8 @@
 
 http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
 
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/find/7-httpsgithubcombscpgroupholdingsllcelser-and-dickercommit1
+
 
 #### AKA.: PEEPING TOMS, ALSO AIDED AND ABETTED TO CONCEALING THE VIOLATION OF PRIVACY IN NYSCEF MATTER 153974/2020
 
@@ -155,6 +157,8 @@ Those papers confer a violation of the Sarbanes-Oxley 2002 Rev.
 
 
 https://github.com/BSCPGROUPHOLDINGSLLC/WILSON-ELSER-DICKER-LASKOWITZ-MOV/find/8209-filed
+
+https://github.com/BSCPGROUPHOLDINGSLLC/AIDED-LIKE-BERNIE/find/7-httpsgithubcombscpgroupholdingsllcelser-and-dickercommit1
 
 MAKESMALLBIGGER
 ^ 1 REFERENCE
