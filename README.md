@@ -1,5 +1,18 @@
 ### ACCESSORIES TO CONCEALING A FELONY
 
+## PEEPING TOM
+
+peep·ing Tom
+/ˌpēpiNG ˈtäm/
+
+Learn to pronounce, denounce, and incarcerate.
+
+noun
+plural noun: peeping Toms
+
+###### a person who derives sexual pleasure from secretly watching people undressing or engaging in sexual activity.
+AKA, the STONE HEARSTS ASYLUM COUNSELORS AND THEIR FRIENDS, THE VOYEURS OF ZUCKER
+
 ### ACCESSORIES TO CONCEALING A FILING BY CIK FILER 93715 AND CIK FILER 1516523
 
 https://github.com/BSCPGROUPHOLDINGSLLC/153974-2020/issues/26
